@@ -1,0 +1,1 @@
+This folder contains Labs of this course for CNN and Computer Vision.
